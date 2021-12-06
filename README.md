@@ -1,2 +1,2 @@
 # kodluyoruzonuncurepo
-Javascript ile To Do List
+Javascript To Do List
