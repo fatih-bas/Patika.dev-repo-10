@@ -1,5 +1,5 @@
-# kodluyoruzonuncurepo
->Javascript To Do List
+# Patika.dev-repo-10
+### Javascript To Do List
 
 - Html
 - Css
