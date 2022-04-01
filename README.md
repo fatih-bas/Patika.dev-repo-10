@@ -1,10 +1,10 @@
-# Patika.dev-repo-10
+
 ### Javascript To Do List
 
-- Html
-- Css
-- Bootstrap
-- Javascript
+- ` Html `
+- ` Css `
+- ` Bootstrap `
+- `Javascript`
 
 ### Live
 - https://javascript-todo-list1212.netlify.app/
